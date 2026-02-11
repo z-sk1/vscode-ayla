@@ -8,7 +8,7 @@
   "main": "./out/extension.js",
   "activationEvents": [],
   "repository": {
-    "url": "https://github.com/z-sk1/ayla-lang"
+    "url": "https://github.com/z-sk1/vscode-ayla"
   },
   "engines": {
     "vscode": "^1.107.0"
